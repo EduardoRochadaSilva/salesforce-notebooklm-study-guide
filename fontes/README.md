@@ -1,20 +1,15 @@
-# 📘 Guia de Estudos Salesforce com NotebookLM
+## 📚 Curadoria das Fontes
 
-## 📌 Contexto
+As fontes utilizadas no NotebookLM foram organizadas por temas, permitindo consultas mais rápidas e respostas mais precisas da Inteligência Artificial.
 
-Este projeto foi desenvolvido como parte do desafio prático da DIO (Digital Innovation One), utilizando o Google NotebookLM como ferramenta de aprendizagem ativa.
+Os principais temas estudados foram:
 
-O objetivo foi criar um caderno temático sobre Salesforce, reunindo conteúdos organizados, resumos e consultas realizadas com apoio da Inteligência Artificial.
+- Administração do Salesforce
+- Certificações Salesforce
+- Comunidade e influenciadores Salesforce
+- Desenvolvimento e Arquitetura Salesforce
+- Estratégia e Implementação
+- Inteligência Artificial e Agentforce
+- Treinamento para iniciantes
 
----
-
-## 🎯 Objetivos
-
-Este projeto possui os seguintes objetivos:
-
-- Aprender Salesforce desde os conceitos fundamentais;
-- Organizar conteúdos de estudo em um único ambiente;
-- Utilizar o NotebookLM como ferramenta de apoio aos estudos;
-- Documentar o processo de aprendizagem;
-- Construir um material de consulta para futuras revisões;
-- Preparar a base de conhecimento para futuras certificações Salesforce.
+A organização por categorias facilitou a revisão dos conteúdos e a localização das informações durante os estudos.
