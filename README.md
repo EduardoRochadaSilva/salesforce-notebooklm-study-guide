@@ -18,3 +18,52 @@ Este projeto possui os seguintes objetivos:
 - Documentar o processo de aprendizagem;
 - Construir um material de consulta para futuras revisões;
 - Preparar a base de conhecimento para futuras certificações Salesforce.
+
+---
+
+# 📖 Miniguia de Estudos
+
+## O que é Salesforce?
+
+Salesforce é uma plataforma de CRM (Customer Relationship Management) baseada em nuvem, utilizada para gerenciar o relacionamento com clientes, automatizar processos de negócios e integrar diferentes áreas da empresa.
+
+---
+
+## Principais áreas estudadas
+
+### Administração Salesforce
+
+- Gerenciamento de usuários
+- Perfis e permissões
+- Segurança
+- Objetos
+- Relatórios e Dashboards
+
+### Certificações Salesforce
+
+- Salesforce Associate
+- Administrator
+- AI Associate
+- Trilhas de aprendizagem no Trailhead
+
+### Desenvolvimento e Arquitetura
+
+- Apex
+- Lightning
+- APIs
+- Objetos Personalizados
+- Automações
+
+### IA e Agentforce
+
+- Inteligência Artificial Generativa
+- Agentes Inteligentes
+- Automação de atendimento
+- Produtividade com IA
+
+### Estratégia e Implementação
+
+- Planejamento
+- Implantação
+- Boas práticas
+- Governança
