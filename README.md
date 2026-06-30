@@ -125,14 +125,13 @@ Salesforce é uma plataforma de CRM (Customer Relationship Management) baseada e
 
 ### Estratégia e Implementação
 
-
-- Planejamento
+- Planejar
 - Implantação
 - Boas práticas
 - Governança
 
----
 
+---
 
 # 📚 Glossário
 
