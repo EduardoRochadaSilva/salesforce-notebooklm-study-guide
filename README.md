@@ -20,5 +20,18 @@ Este projeto possui os seguintes objetivos:
 - Preparar a base de conhecimento para futuras certificações Salesforce.
 
 ---
+---
 
+# 📚 Glossário
+
+| Termo | Definição |
+|--------|-----------|
+| CRM | Sistema para gerenciamento do relacionamento com clientes. |
+| Salesforce | Plataforma líder mundial em CRM baseada em nuvem. |
+| Trailhead | Plataforma oficial de aprendizagem da Salesforce. |
+| Apex | Linguagem de programação utilizada na plataforma Salesforce. |
+| Flow | Ferramenta para automação de processos sem programação. |
+| Dashboard | Painel gráfico utilizado para análise de indicadores. |
+| Agentforce | Plataforma de IA da Salesforce para criação de agentes inteligentes. |
+| Objeto | Estrutura responsável por armazenar informações na plataforma Salesforce. |
 
